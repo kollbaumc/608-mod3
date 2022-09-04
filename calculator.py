@@ -4,4 +4,3 @@
 30.0
 >>> math.floor(9.2)
 9
->>> chris kollbaum
